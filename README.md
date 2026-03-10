@@ -27,7 +27,9 @@ No official IT title yet. Working on changing that.
 
 ## What I'm Working On
 
-- 🔐 TryHackMe - working through the cybersecurity path
+- 🔐 TryHackMe - Cyber Security 101 path (in progress)
+  Completed: Linux, Networking, Cryptography, Windows & AD,
+  Command Line, Metasploit
 - 🏠 Home lab - have the equipment, setting it up (documenting here as I go)
 
 ---
