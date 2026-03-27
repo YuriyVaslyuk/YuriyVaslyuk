@@ -1,7 +1,7 @@
 # Hi, I'm Yuriy 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuriy%20Vaslyuk-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YuriyVaslyuk)
-[![Azure Certified](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-blueviolet?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/yuriyvaslyuk/transcript)
+[![Azure Certified](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-blueviolet?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/YuriyVaslyuk-6143/E2C26577B6634896?sharingId=62DFA235BA93B1D2)
 
 **Technical Sales Professional | B.Sc. Computing Student | Yorkton, SK**
 ## Background
