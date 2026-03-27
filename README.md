@@ -1,11 +1,9 @@
-# Yuriy Vaslyuk
+# Hi, I'm Yuriy 👋
 
-📍 Yorkton, Saskatchewan  
-🎓 Computer Science @ Athabasca University (expected 2027)  
-☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuriy%20Vaslyuk-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YuriyVaslyuk)
+[![Azure Certified](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-blueviolet?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/yuriyvaslyuk/transcript)
 
----
-
+**Technical Sales Professional | B.Sc. Computing Student | Yorkton, SK**
 ## Background
 
 I work in automotive sales and cover for the finance manager.
